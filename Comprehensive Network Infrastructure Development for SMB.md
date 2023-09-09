@@ -1,5 +1,4 @@
-## Comprehensive Network Infrastructure Development for SMB (Small/Med Business):
-A Multifaceted Approach
+## Comprehensive Network Infrastructure Development for SMB (Small/Med Business): A Multifaceted Approach
 
 ### Duration
 * July 2023 - August 2023
