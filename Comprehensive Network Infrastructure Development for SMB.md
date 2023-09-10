@@ -57,3 +57,9 @@ Throughout this project, our team proved its adaptability by proficiently using 
 - Team Leadership
 - Networking
 - Oral & Written Communication Skills
+
+
+## Contributors
+
+- [@Omnicron123](https://github.com/Omicron123)
+  
