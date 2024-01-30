@@ -2,7 +2,7 @@
 Introduction
 
 ## This guide provides detailed instructions on setting up a network simulation environment using GNS3 integrated with Hyper-V. Tailored for cybersecurity professionals and network enthusiasts, this environment is ideal for testing, learning, and simulating complex network setups.
-System and Software Requirements
+### System and Software Requirements
 
     Operating System: Windows 10/11 Pro, Education, or Enterprise.
     Processor: Intel i7 or equivalent, with support for virtualization.
